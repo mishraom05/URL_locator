@@ -2,8 +2,8 @@
 
 body {
     font-family: Arial, sans-serif; /* Sets the font for the body */
-    background-color: #f0f0f0; /* Light gray background color */
-    margin: 0; /* Removes default margin */
+    background-color: #0c5151; /* Light gray background color */
+    margin: 2; /* Removes default margin */
     padding: 40px; /* Adds padding around the body */
 }
 
@@ -12,7 +12,7 @@ body {
     font-size: 24px; /* Increases font size */
     text-align: center; /* Centers the text */
     border: 2px solid #007BFF; /* Adds a blue border */
-    padding: 10px; /* Adds padding inside the paragraph */
+    padding: 20px; /* Adds padding inside the paragraph */
     background-color: #ffffff; /* White background for the paragraph */
     border-radius: 5px; /* Rounds the corners of the border */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
@@ -23,7 +23,7 @@ body {
     font-size: 24px; /* Increases font size */
     text-align: center; /* Centers the text */
     border: 2px solid #007BFF; /* Adds a blue border */
-    padding: 10px; /* Adds padding inside the paragraph */
+    padding: 20px; /* Adds padding inside the paragraph */
     background-color: #ffffff; /* White background for the paragraph */
     border-radius: 5px; /* Rounds the corners of the border */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
