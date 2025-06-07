@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif; /* Sets the font for the body */
     background-color: #f0f0f0; /* Light gray background color */
     margin: 0; /* Removes default margin */
-    padding: 20px; /* Adds padding around the body */
+    padding: 40px; /* Adds padding around the body */
 }
 
 #url_locator {
@@ -16,4 +16,22 @@ body {
     background-color: #ffffff; /* White background for the paragraph */
     border-radius: 5px; /* Rounds the corners of the border */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
 }

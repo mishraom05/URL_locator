@@ -3,9 +3,12 @@
   "description": "URL Locator Extension",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["storage", "activeTab"],
+  "permissions": ["tabs", "activeTab"],
   "action": {
     "default_popup": "main.html",
     "default_icon": "url_locator.png"
+  },
+  "background": {
+    "service_worker": "background.js"
   }
 }
