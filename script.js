@@ -40,7 +40,7 @@ fetch(url)
                 let urlList = '<ul>'; // Start an unordered list
                 for (const key in urls) {
                     const link = urls[key]
-                    urlList += `<li><a href="${link}" class="search-link" data-url="${link}">${link}</a></li>`;
+                    urlList += `<li><a href="${link}" class="search-link" data-url="${link}">${key}</a></li>`;
                 }
                 urlList += '</ul>'; // Close the unordered list
 
