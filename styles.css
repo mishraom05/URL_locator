@@ -7,6 +7,17 @@ body {
     padding: 40px; /* Adds padding around the body */
 }
 
+#sec_locator {
+    color: #333; /* Dark gray text color */
+    font-size: 24px; /* Increases font size */
+    text-align: center; /* Centers the text */
+    border: 2px solid #007BFF; /* Adds a blue border */
+    padding: 10px; /* Adds padding inside the paragraph */
+    background-color: #ffffff; /* White background for the paragraph */
+    border-radius: 5px; /* Rounds the corners of the border */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
 #url_locator {
     color: #333; /* Dark gray text color */
     font-size: 24px; /* Increases font size */
