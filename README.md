@@ -53,20 +53,3 @@ Key2 = https://example.com/link4
 ```
 4. **Example INI File**
    You can find an example INI file ([here](https://raw.githubusercontent.com/mishraom05/URL_locator/main/urls.ini)).
-
-## Contributing
-   Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-   This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-   Thanks to the open-source community for their contributions and support.
-
-### Notes
-
-- Replace `https://github.com/yourusername/URL_locator.git` with the actual raw-URL of your GitHub repository.
-- You can customize the content further based on your specific project details, such as adding more sections or modifying the usage instructions.
-- Ensure that the INI file format section accurately reflects the structure of your INI file.
-
-This `README.md` provides a comprehensive overview of your extension, making it easier for users and contributors to understand its purpose and how to use it. If you have any further questions or need additional assistance, feel free to ask!
